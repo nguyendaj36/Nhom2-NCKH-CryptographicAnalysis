@@ -3,6 +3,7 @@ Các lệnh dùng để chạy:
 - pip install pymongo
 - pip install schedule
 - pip install streamlit
+- pip install python-binance
 
 khởi chạy lần lượt các lệnh trên để tải tài nguyên cần thiết.
 
